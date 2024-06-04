@@ -24,7 +24,7 @@ El proyecto NODEBAR es una página web responsiva para un bar que ofrece buena c
 
 ## Créditos
 - Diseño y desarrollo por 
-    -Jacqueline Gerber	jackiegerberw@gmaul.com
+    -Jacqueline Gerber	jackiegerberw@gmail.com
     -Nicolas Iglesias	nicolas.iglesias747@gmail.com
     -Posta Daniel	fernando.d91@hotmail.com
     -ANA RUGNA	azrugna@yahoo.com
